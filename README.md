@@ -22,6 +22,6 @@ https://your-username.github.io/premium-landing-page/
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/premium-landing-page.git
+git clone https://github.com/shubhanshu-mishra85/premium-landing-page.git
 cd premium-landing-page
 open index.html
